@@ -1,0 +1,20 @@
+{
+  "name": "samp-status",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "discord.js-poll": "^1.1.2",
+    "express": "^4.17.3",
+    "quick.db": "^7.1.3",
+    "mysql2": "^3.2.0",
+    "gamedig": "^2.0.28"
+  }
+}
